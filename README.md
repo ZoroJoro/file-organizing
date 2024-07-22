@@ -11,7 +11,7 @@ This script provides a simple GUI to organize files in a directory based on thei
 
 ## Requirements
 
-- Python 3.8
+- Python 
 - tkinter
 - os
 - shutil
